@@ -1,4 +1,4 @@
-#Motion Sensor Using Raspberry Pi Pico and HCSR04 Ultrasonic Sensor
+Motion Sensor Using Raspberry Pi Pico and HCSR04 Ultrasonic Sensor
 
 Link to Raspberry Pi Pico and HCSR04 Ultrasonic Sensor wiring connections: https://github.com/ellenrapps/Road-to-Autonomous-Drone-Using-Raspberry-Pi-Pico/blob/main/pico_hcsr04_connection.jpg
 
